@@ -1,0 +1,17 @@
+I:\Project\MongoDBDemo\MongoDBDemo\bin\Debug\MongoDBDemo.exe.config
+I:\Project\MongoDBDemo\MongoDBDemo\bin\Debug\MongoDBDemo.exe
+I:\Project\MongoDBDemo\MongoDBDemo\bin\Debug\MongoDBDemo.pdb
+I:\Project\MongoDBDemo\MongoDBDemo\bin\Debug\DnsClient.dll
+I:\Project\MongoDBDemo\MongoDBDemo\bin\Debug\MongoDB.Bson.dll
+I:\Project\MongoDBDemo\MongoDBDemo\bin\Debug\MongoDB.Driver.Core.dll
+I:\Project\MongoDBDemo\MongoDBDemo\bin\Debug\MongoDB.Driver.dll
+I:\Project\MongoDBDemo\MongoDBDemo\bin\Debug\System.Buffers.dll
+I:\Project\MongoDBDemo\MongoDBDemo\bin\Debug\DnsClient.xml
+I:\Project\MongoDBDemo\MongoDBDemo\bin\Debug\MongoDB.Bson.xml
+I:\Project\MongoDBDemo\MongoDBDemo\bin\Debug\MongoDB.Driver.xml
+I:\Project\MongoDBDemo\MongoDBDemo\bin\Debug\MongoDB.Driver.Core.xml
+I:\Project\MongoDBDemo\MongoDBDemo\obj\Debug\MongoDBDemo.csprojResolveAssemblyReference.cache
+I:\Project\MongoDBDemo\MongoDBDemo\obj\Debug\MongoDBDemo.csproj.CoreCompileInputs.cache
+I:\Project\MongoDBDemo\MongoDBDemo\obj\Debug\MongoDBDemo.csproj.CopyComplete
+I:\Project\MongoDBDemo\MongoDBDemo\obj\Debug\MongoDBDemo.exe
+I:\Project\MongoDBDemo\MongoDBDemo\obj\Debug\MongoDBDemo.pdb
