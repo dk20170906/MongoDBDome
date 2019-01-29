@@ -1,0 +1,11 @@
+E:\lixin\github\MongoDBDemo\CoreMongoDBDemo\bin\Debug\netcoreapp2.0\CoreMongoDBDemo.deps.json
+E:\lixin\github\MongoDBDemo\CoreMongoDBDemo\bin\Debug\netcoreapp2.0\CoreMongoDBDemo.runtimeconfig.json
+E:\lixin\github\MongoDBDemo\CoreMongoDBDemo\bin\Debug\netcoreapp2.0\CoreMongoDBDemo.runtimeconfig.dev.json
+E:\lixin\github\MongoDBDemo\CoreMongoDBDemo\bin\Debug\netcoreapp2.0\CoreMongoDBDemo.dll
+E:\lixin\github\MongoDBDemo\CoreMongoDBDemo\obj\Debug\netcoreapp2.0\CoreMongoDBDemo.csprojResolveAssemblyReference.cache
+E:\lixin\github\MongoDBDemo\CoreMongoDBDemo\obj\Debug\netcoreapp2.0\CoreMongoDBDemo.csproj.CoreCompileInputs.cache
+E:\lixin\github\MongoDBDemo\CoreMongoDBDemo\obj\Debug\netcoreapp2.0\CoreMongoDBDemo.AssemblyInfoInputs.cache
+E:\lixin\github\MongoDBDemo\CoreMongoDBDemo\obj\Debug\netcoreapp2.0\CoreMongoDBDemo.AssemblyInfo.cs
+E:\lixin\github\MongoDBDemo\CoreMongoDBDemo\bin\Debug\netcoreapp2.0\CoreMongoDBDemo.pdb
+E:\lixin\github\MongoDBDemo\CoreMongoDBDemo\obj\Debug\netcoreapp2.0\CoreMongoDBDemo.dll
+E:\lixin\github\MongoDBDemo\CoreMongoDBDemo\obj\Debug\netcoreapp2.0\CoreMongoDBDemo.pdb
